@@ -1,4 +1,4 @@
-# zayantofeeq@csu.fullerton.edu
+# zayantofeeq@csu.fullerton.edu 
 
 commands to run the program
 
